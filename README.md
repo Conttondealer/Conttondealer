@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Conttondealer
-- 👀 I’m interested in learning how coding in general works
+- 👀 I’m interested in learning how coding works in general works
 - 🌱 I’m currently learning css/html/java
 - 💞️ I’m looking to collaborate on nothing yet
 - 📫 How to reach me 
